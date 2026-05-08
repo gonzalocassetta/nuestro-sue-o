@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- HOME -->
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://xn--nuestrosueoantiguedades-1hc.com/og-image.jpg</image:loc>
+      <image:title>Nuestro Sueño Antigüedades</image:title>
+    </image:image>
+  </url>
+
+  <!-- CATALOGO -->
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/catalogo</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- PRODUCTOS DESTACADOS -->
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/productos/muebles-antiguos</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/productos/relojes-vintage</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/productos/decoracion-retro</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.87</priority>
+  </url>
+
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/productos/coleccionables</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+
+  <!-- NOSOTROS -->
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/nosotros</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- CONTACTO -->
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/contacto</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- FAQ SEO -->
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/preguntas-frecuentes</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- BLOG -->
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/blog</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.92</priority>
+  </url>
+
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/blog/como-identificar-antiguedades-valiosas</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://xn--nuestrosueoantiguedades-1hc.com/blog/cuidados-de-muebles-antiguos</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+
+</urlset>
