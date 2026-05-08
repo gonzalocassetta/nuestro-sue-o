@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--nuestrosueoantiguedades-1hc.com/sitemap.xml
